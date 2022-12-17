@@ -1,0 +1,16 @@
+Closes #43
+Adds a Hide images/Show images toggle button
+@octo-org/octo-team what do you think? Should the default be images displayed or images hidden?
+
+What is changing
+Users now have a button to show/hide images ont the page
+When images are hidden, a placeholder icon is displayed
+The user's image preference will follow them to future pages
+
+Example
+Check ou this pag in staging for a nice example (screenshot below):
+
+In the upper-right corner of any page, click your profile photo, then click settings
+Under Profile Picture, click Edit
+Click Upload a photo....
+Crop your picture. When you're done, click Set new profile picture
